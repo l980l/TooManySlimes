@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d7d050da7d44b845ac7a108eedfd7f9, type: 3}
+  m_Name: MagneticShieldData
+  m_EditorClassIdentifier: 
+  skillType: 2
+  skillID: 2
+  skillName: "\uB108\uC5D0\uAC8C \uB2FF\uC9C0 \uC54A\uAE30\uB97C"
+  skillDescription: "\uC801\uACFC \uCDA9\uB3CC\uD558\uBA74 \uCD08\uAC15\uB825 \uC790\uC11D\uC744
+    \uBC1C\uC0AC\uD569\uB2C8\uB2E4. \uBCF4\uC2A4 \uBAAC\uC2A4\uD130\uC5D0\uAC8C\uB294
+    \uB370\uBBF8\uC9C0\uB9CC \uC785\uD799\uB2C8\uB2E4. \n\n\uCD5C\uB300 \uCDA9\uC804\uB7C9:
+    {0} \n\uCFE8\uD0C0\uC784: {1}\uCD08 \n\uB370\uBBF8\uC9C0: {2}"
+  Icon: {fileID: 21300000, guid: 99bac1da98fb7d94ba0e4a88c1209be4, type: 3}
+  Damage: 10
+  baseCount: 1
+  baseCoolTime: 7
+  counts: 010000000200000002000000030000000300000004000000040000000500000005000000
+  coolTime:
+  - 1
+  - 1
+  - 0.8
+  - 0.8
+  - 0.6
+  - 0.6
+  - 0.4
+  - 0.4
+  - 0.2

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d7d050da7d44b845ac7a108eedfd7f9, type: 3}
+  m_Name: GunData
+  m_EditorClassIdentifier: 
+  skillType: 0
+  skillID: 0
+  skillName: "\uBCF4\uAE09 \uCD1D"
+  skillDescription: "\uAE30\uBCF8\uC73C\uB85C \uBCF4\uAE09\uB418\uB294 \uCD1D. \uC801\uB2F9\uD55C
+    \uC131\uB2A5.\n\n\uD22C\uC0AC\uCCB4 \uAC1C\uC218: {0} \n\uCFE8\uD0C0\uC784: {1}\uCD08\n\uB370\uBBF8\uC9C0:
+    {2}"
+  Icon: {fileID: 21300000, guid: 49f5c4ccaeac9c44eb1635f2f10519a8, type: 3}
+  Damage: 30
+  baseCount: 1
+  baseCoolTime: 1
+  counts: 010000000200000002000000030000000300000004000000040000000500000005000000
+  coolTime:
+  - 1
+  - 1
+  - 0.8
+  - 0.8
+  - 0.6
+  - 0.6
+  - 0.4
+  - 0.4
+  - 0.2
